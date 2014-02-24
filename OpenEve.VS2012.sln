@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenEVE.Data", "OpenEVE.Data\OpenEVE.Data.csproj", "{15F01592-D39C-4C29-9AE5-352B9FF61AD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenEVE.Debug", "OpenEVE.Debug\OpenEVE.Debug.csproj", "{29FA7B2A-9504-4E6E-8E32-34AB46226FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenEVE.Data.FileSystem", "OpenEVE.Data.CSV\OpenEVE.Data.FileSystem.csproj", "{FE282CAB-92B9-427D-8FA9-1123805BC688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenEVE.Data.EVEAI", "OpenEVE.Data.EVEAI\OpenEVE.Data.EVEAI.csproj", "{BBDE7445-D690-4684-9061-10CED52FD46F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15F01592-D39C-4C29-9AE5-352B9FF61AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F01592-D39C-4C29-9AE5-352B9FF61AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F01592-D39C-4C29-9AE5-352B9FF61AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F01592-D39C-4C29-9AE5-352B9FF61AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29FA7B2A-9504-4E6E-8E32-34AB46226FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FA7B2A-9504-4E6E-8E32-34AB46226FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FA7B2A-9504-4E6E-8E32-34AB46226FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FA7B2A-9504-4E6E-8E32-34AB46226FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE282CAB-92B9-427D-8FA9-1123805BC688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE282CAB-92B9-427D-8FA9-1123805BC688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE282CAB-92B9-427D-8FA9-1123805BC688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE282CAB-92B9-427D-8FA9-1123805BC688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDE7445-D690-4684-9061-10CED52FD46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDE7445-D690-4684-9061-10CED52FD46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDE7445-D690-4684-9061-10CED52FD46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDE7445-D690-4684-9061-10CED52FD46F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
