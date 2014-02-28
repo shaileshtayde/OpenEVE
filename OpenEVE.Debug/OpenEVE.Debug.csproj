@@ -40,6 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Manufacturing\AssemblyLine.cs" />
+    <Compile Include="Manufacturing\Item.cs" />
+    <Compile Include="Manufacturing\Job.cs" />
+    <Compile Include="Manufacturing\MaterialItem.cs" />
+    <Compile Include="Manufacturing\Produce.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
